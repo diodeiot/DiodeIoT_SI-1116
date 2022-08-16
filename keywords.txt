@@ -1,0 +1,14 @@
+SI1116	KEYWORD1
+si1116	KEYWORD1
+init	KEYWORD2
+deinit	KEYWORD2
+loop	KEYWORD2
+ledSet	KEYWORD2
+ledOn	KEYWORD2
+ledOff	KEYWORD2
+isButtonPressed	KEYWORD2
+isButtonReleased	KEYWORD2
+setRelay	KEYWORD2
+getRelay	KEYWORD2
+allOnRelay	KEYWORD2
+allOffRelay	KEYWORD2
