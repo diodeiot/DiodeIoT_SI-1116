@@ -82,7 +82,11 @@ Yükseklik | | 19.1 | | mm
 ## 1. SI-1116 Geliştirme Modülü
 SI-1116 geliştirme modülünü aşağıdaki online marketlerden edinebilirsiniz:
 
-[direnc.net](https://www.direnc.net/)
+[<img alt="özdisan" width="150px" src="https://user-images.githubusercontent.com/111313342/185208516-03412fa5-7c2a-4f45-a1b3-a4b5fa2b1e6d.png" />](https://ozdisan.com/)
+
+[<img alt="direnc net" width="150px" src="https://user-images.githubusercontent.com/111313342/185208523-e1d5a133-d13e-490f-8011-0b83b9cfd852.png" />](https://www.direnc.net/)
+
+[<img alt="robotistan" width="150px" src="https://user-images.githubusercontent.com/111313342/185208535-c1e5e80d-dee9-4cf9-b6ce-97cbf80e2975.png" />](https://www.robotistan.com/)
 
 ## 2. USB-UART Dönüştürücü
 SI-1116 geliştirme modülünü bilgisayara bağlamak için 3.3V usb-uart dönüştürcü kullanmanız gerekmektedir. 
